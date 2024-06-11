@@ -7,7 +7,7 @@ We modified the Multi-wavelet Operator and designated it as Self-Adaptive Multiw
 More experiment details are provided in the main.ipynb file.
 
 ### Requirements
-The code package is developed using Python 3.9 and Pytorch 2.2 with cuda 12.3. For running the experiments first install the required packages using 'requirements.txt'
+The code package is developed using Python 3.9 and Pytorch 2.2 with cuda 12.3. 
 
 ## Experiments
 ### Data
