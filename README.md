@@ -3,7 +3,7 @@
 
 Group2, Dept. of Mathematical Sciences, Sungjong Lee, Jingu Hwang, 
 
-We modified the Multi-wavelet Operator and designated it as Self-Adaptive Multiwavelet Operator 
+We modified the Multi-wavelet Operator and designated it as Self-Adaptive Multiwavelet Operator. 
 More experiment details are provided in the main.ipynb file.
 
 ### Requirements
