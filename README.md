@@ -1,10 +1,10 @@
 # MAS557, KAIST 2024 (SPRING) Final Project
 
 
-Group2, Dept. of Mathematical Sciences, Sungjong Lee, Jingu Hwang, \
+Group2, Dept. of Mathematical Sciences, Sungjong Lee, Jingu Hwang, 
 
-We modified the Multi-wavelet Operator and designated it as Self-Adaptive Multiwavelet Operator \
-More experiment details are provided in the main.ipynb file.\
+We modified the Multi-wavelet Operator and designated it as Self-Adaptive Multiwavelet Operator 
+More experiment details are provided in the main.ipynb file.
 
 ### Requirements
 The code package is developed using Python 3.9 and Pytorch 2.2 with cuda 12.3. For running the experiments first install the required packages using 'requirements.txt'
