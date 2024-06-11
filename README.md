@@ -9,6 +9,9 @@ More experiment details are provided in the main.ipynb file.
 ### Requirements
 The code package is developed using Python 3.9 and Pytorch 2.2 with cuda 12.3. 
 
+### Disclaimer
+The skeleton codes and baseline model is extracted from (https://github.com/gaurav71531/mwt-operator)
+
 ## Experiments
 ### Data
 KdV :A sample generated dataset for KdV is uploaded at [KdV data](https://drive.google.com/drive/folders/1--KYHPjl-pkrrGRtH8eg0aG7q8hUjiKg).
