@@ -1,0 +1,3 @@
+500 epoch, chebyshev
+sa-mwo 0.0284, 534s
+mwo  0.0280, 735s
