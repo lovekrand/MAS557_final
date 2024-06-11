@@ -18,3 +18,6 @@ Burgers: For the experiments on Burgers, the code package uses the datasets as p
 [PDE datasets](https://drive.google.com/drive/folders/1UnbQh2WWc6knEHbLn-ZaXrKUZhp7pjt-)
 
 Wave equation: To use the wave equation as data, run the ipynb file named wave_eqn_generate.ipynb
+
+### Figures
+You can check the experiment details, outcomes and figures of each PDE equation in the respective folders. We provided several figures and plots to verify our experiments were geniue.
