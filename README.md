@@ -3,14 +3,14 @@
 
 Group2, Dept. of Mathematical Sciences, Sungjong Lee, Jingu Hwang, 
 
-We modified the Multi-wavelet Operator and designated it as Self-Adaptive Multiwavelet Operator. 
+We modified the Multi-wavelet Operator[Gupta, et al, 2021] and designated it as Self-Adaptive Multiwavelet Operator. 
 More experiment details are provided in the main.ipynb file.
 
 ### Requirements
 The code package is developed using Python 3.9 and Pytorch 2.2 with cuda 12.3. 
 
 ### Disclaimer
-The skeleton codes and baseline model is extracted from (https://github.com/gaurav71531/mwt-operator)
+The skeleton codes and baseline model are extracted from (https://github.com/gaurav71531/mwt-operator)
 
 ## Experiments
 ### Data
@@ -20,7 +20,7 @@ Burgers: For the experiments on Burgers, the code package uses the datasets as p
 
 [PDE datasets](https://drive.google.com/drive/folders/1UnbQh2WWc6knEHbLn-ZaXrKUZhp7pjt-)
 
-Wave equation: To use the wave equation as data, run the ipynb file named wave_eqn_generate.ipynb
+Wave : To use the wave equation as data, run the ipynb file named wave_eqn_generate.ipynb
 
 ### Figures
 You can check the experiment details, outcomes and figures of each PDE equation in the respective folders. We provided several figures and plots to verify our experiments were geniue.
