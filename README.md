@@ -6,7 +6,8 @@ Group2, Dept. of Mathematical Sciences, Sungjong Lee, Jingu Hwang,
 We modified the Multi-wavelet Operator[Gupta, et al, 2021] and designated it as Self-Adaptive Multiwavelet Operator. 
 More experiment details are provided in the main.ipynb file.
 
-<img src="[이미지주소.png](https://github.com/lovekrand/MAS557_final/assets/30506727/9e40790d-d079-453d-8f8e-d530d010fb1b)" width="200" height="400"/>
+https://github.com/lovekrand/MAS557_final/assets/30506727/9e40790d-d079-453d-8f8e-d530d010fb1b
+<img src="[https://github.com/lovekrand/MAS557_final/assets/30506727/9e40790d-d079-453d-8f8e-d530d010fb1b.png]" width="200" height="400"/>
 
 
 ### Requirements
