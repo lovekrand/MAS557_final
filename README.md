@@ -14,13 +14,15 @@ The skeleton codes and baseline model are extracted from (https://github.com/gau
 
 ## Experiments
 ### Data
-KdV :A sample generated dataset for KdV is uploaded at [KdV data](https://drive.google.com/drive/folders/1--KYHPjl-pkrrGRtH8eg0aG7q8hUjiKg).
+We have provided the entire pipeline code via main.ipynb file. You can simulate the figures appearing in the final paper by downloading one of the datasets provided below. In fact, Kdv and Burger's equation uses the same dataset as in the original MWO paper.
 
-Burgers: For the experiments on Burgers, the code package uses the datasets as provided in the following repository by the Authors Zongyi Li et al.
+For KdV equation : A sample generated dataset for KdV is uploaded at [KdV data](https://drive.google.com/drive/folders/1--KYHPjl-pkrrGRtH8eg0aG7q8hUjiKg).
+
+For Burgers equation : For the experiments on Burgers, the code package uses the datasets as provided in the following repository by the Authors Zongyi Li et al.
 
 [PDE datasets](https://drive.google.com/drive/folders/1UnbQh2WWc6knEHbLn-ZaXrKUZhp7pjt-)
 
-Wave : To use the wave equation as data, run the ipynb file named wave_eqn_generate.ipynb
+For Wave equation : To use the wave equation as data, run the ipynb file named wave_eqn_generate.ipynb and save the .npz file.
 
 ### Figures
 You can check the experiment details, outcomes and figures of each PDE equation in the respective folders. We provided several figures and plots to verify our experiments were geniue.
