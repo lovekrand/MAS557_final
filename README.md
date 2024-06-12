@@ -6,6 +6,9 @@ Group2, Dept. of Mathematical Sciences, Sungjong Lee, Jingu Hwang,
 We modified the Multi-wavelet Operator[Gupta, et al, 2021] and designated it as Self-Adaptive Multiwavelet Operator. 
 More experiment details are provided in the main.ipynb file.
 
+![image](https://github.com/lovekrand/MAS557_final/assets/30506727/9e40790d-d079-453d-8f8e-d530d010fb1b)
+
+
 ### Requirements
 The code package is developed using Python 3.9 and Pytorch 2.2 with cuda 12.3. 
 
