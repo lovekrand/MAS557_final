@@ -7,7 +7,7 @@ We modified the Multi-wavelet Operator[Gupta, et al, 2021] and designated it as 
 More experiment details are provided in the main.ipynb file.
 
 https://github.com/lovekrand/MAS557_final/assets/30506727/9e40790d-d079-453d-8f8e-d530d010fb1b
-<img src="[https://github.com/lovekrand/MAS557_final/assets/30506727/9e40790d-d079-453d-8f8e-d530d010fb1b.png]" width="200" height="400"/>
+<img src="[https://github.com/lovekrand/MAS557_final/assets/30506727/9e40790d-d079-453d-8f8e-d530d010fb1b]" width="200" height="400"/>
 
 
 ### Requirements
