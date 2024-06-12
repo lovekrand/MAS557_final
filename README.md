@@ -14,7 +14,7 @@ The skeleton codes and baseline model are extracted from (https://github.com/gau
 
 ## Experiments
 ### Data
-We have provided the entire pipeline code via main.ipynb file. You can simulate the figures appearing in the final paper by downloading one of the datasets provided below. In fact, Kdv and Burger's equation uses the same dataset as in the original MWO paper.
+We have provided the entire pipeline code via main.ipynb file. You can simulate the figures appearing in the final paper by downloading one of the datasets provided below. In fact, Kdv and Burger's equation uses the same dataset as in the original MWO paper. The results appearing on the pipeline code learn Burger's equation with lesser training data(which was our last experiment setup), so some of the figures may seem disparate from the one on the paper. However, if you try with KdV data, you will be able to obtain the same results.
 
 For KdV equation : A sample generated dataset for KdV is uploaded at [KdV data](https://drive.google.com/drive/folders/1--KYHPjl-pkrrGRtH8eg0aG7q8hUjiKg).
 
