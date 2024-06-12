@@ -18,7 +18,7 @@ We have provided the entire pipeline code via main.ipynb file. You can simulate 
 
 For KdV equation : A sample generated dataset for KdV is uploaded at [KdV data](https://drive.google.com/drive/folders/1--KYHPjl-pkrrGRtH8eg0aG7q8hUjiKg).
 
-For Burgers equation : For the experiments on Burgers, the code package uses the datasets as provided in the following repository by the Authors Zongyi Li et al.
+For Burgers equation : For the experiments on Burgers, the code package uses the datasets as provided in the following repository by the Authors Zongyi Li et al. We used Burgers_R10.mat data.
 
 [PDE datasets](https://drive.google.com/drive/folders/1UnbQh2WWc6knEHbLn-ZaXrKUZhp7pjt-)
 
